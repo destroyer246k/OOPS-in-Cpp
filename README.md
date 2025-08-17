@@ -4,7 +4,7 @@
 
 ## Theory
 The **“++” in C++ stands for Object-Oriented Programming (OOPs)**, which is an enhancement over the C language. While C is a procedural programming language, C++ introduced the concept of classes and objects, making it possible to model real-world entities more effectively.  
-OOP organizes programs around objects and their interactions rather than just functions and logic, which improves modularity, reusability, and maintainability. It allows programmers to structure code in a way that is closer to how we think about real-world problems. This shift from procedure-driven design to object-driven design is what makes C++ more powerful and versatile than C.
+OOP organizes programs around objects and their interactions rather than just functions and logic, which improves modularity, reusability, and maintainability. It allows programmers to structure code in a way that is closer to how we think about real-world problems. This shift from procedure-driven design to object-driven design is what makes C++ more powerful  than C.
 
 ## Programs
 ## 1. Class – Student Information
@@ -48,7 +48,7 @@ This program creates a `Calc` class with methods to perform addition, subtractio
 
 ## 5. Class – Types of Methods
 **Logic:**  
-This program demonstrates two types of method definitions: inside the class and outside the class. The `Cube` class calculates the volume of cubes using both styles, showing flexibility in defining member functions.
+This program demonstrates two types of method definitions: inside the class and outside the class. The `Cube` clas calculates the volume of cubes using both styles, showing flexibility in defining member functions.
 
 Method outside synatx:
 ```
