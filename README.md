@@ -53,7 +53,7 @@ This program demonstrates two types of method definitions: inside the class and 
 Method outside synatx:
 ```
 datatype ClassName::methodName(){
-    statements
+    statements;
 }
 ```
 
